@@ -1,4 +1,4 @@
-local url = ""
+local url = "https://raw.githubusercontent.com/LuAaaqw/Modules-Lua-Luau/refs/heads/main/Modules/TrySystem/Try.lua"
 
 assert(game and type(game.HttpGet) == "function", "game:HttpGet is not available")
 
